@@ -1,6 +1,8 @@
  Para commit vc precisa antes usar
 git add. - para adicionar as novas att
 
-git commit - para deixar tudo 1 pra 1 
+git commit-m - para deixar tudo 1 pra 1 
 
 git push "sempre coloque um comentário coerente" - serve para subir pro git hub
+
+git origin main
